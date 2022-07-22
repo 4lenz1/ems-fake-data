@@ -1,6 +1,7 @@
 {
   "Post": {
     "title": { "string": {} },
+    "error" : "string",
     "comments": {
       "hasMany": "Comment"
     }
