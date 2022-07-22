@@ -2,6 +2,7 @@
   "Post": {
     "title": { "string": {} },
     "error" : {"string" : {}},
+    "beat" : {"number":{} },
     "comments": {
       "hasMany": "Comment"
     }
